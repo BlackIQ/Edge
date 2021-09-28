@@ -1,4 +1,8 @@
+<div align="center">
+  
 [![Header](images/head.png)](https://github.com/BlackIQ/Edge)
+
+</div>
 
 # Edge
 
