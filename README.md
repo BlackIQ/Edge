@@ -91,9 +91,7 @@ So, we all know what is `LICENSE` and `README`. The `main.py` is the **Edge** fi
 
 ### How to costumize a theme?
 
-First, just create a simple template. I mean in your PC, create a directory, create an `index.html` and a static directory. Develop what you like. After, Move your `static` folder in `docs/static`. And put sample html files, in `files` directory.
-
-Next, there will be some templates and how to create a template.
+We will create some cources and themes in YouTube. 
 
 This project is licensed under **MIT License**.
 
