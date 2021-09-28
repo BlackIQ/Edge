@@ -1,3 +1,5 @@
+[![Header](images/head.png)](https://github.com/BlackIQ/Edge)
+
 # Edge
 
 **Edge** is a new static generator.
