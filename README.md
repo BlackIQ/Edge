@@ -1,6 +1,8 @@
 # Edge
 
-Edge is a new static generator.
+**Edge** is a new static generator.
+
+**Edge is onworking. Do not clone or do any changes. No P.R will be merged**
 
 Also **Edge** means: *the outside limit of an object, area, or surface*.
 
