@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Koh+Santepheap:wght@300&display=swap');
+
+.main {
+    padding: 2%;
+}
+.seprator {
+    border-color: rgb(143, 126, 29);
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+
+.post {
+    font-weight: 100;
+}
+.goto {
+    cursor: pointer;
+}

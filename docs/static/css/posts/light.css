@@ -1,0 +1,16 @@
+@media (prefers-color-scheme: light) {
+    .archive {
+        font-family: 'Koh Santepheap', cursive;
+        padding: 5%;
+        color: #222;
+        background-color: #f1f1f1;
+    }
+    .post {
+        border: solid 1px black;
+        padding: 1%;
+        border-radius: 10px;
+    }
+    .title {
+        color: black;
+    }
+}
