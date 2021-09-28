@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Header](images/head.png)](https://github.com/BlackIQ/Edge)
+<img src="images/head.png" align="center">
 
 </div>
 
